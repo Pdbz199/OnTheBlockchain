@@ -1,0 +1,16 @@
+{
+  "name": "ontheblockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Preston Rozwood",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "random-words": "^1.1.1",
+    "twitter": "^1.7.1"
+  }
+}
